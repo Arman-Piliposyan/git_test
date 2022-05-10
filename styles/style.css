@@ -11,10 +11,10 @@ body {
 }
 
 .main-block {
-    width: 300px;
+    width: 330px;
     height: 150px;
     background-color: green;
-    color: antiquewhite;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
